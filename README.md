@@ -14,33 +14,28 @@
 </p>
 
 ---
+# 👋 Hi, I'm A. Gayathri
 
-### 👩‍💻 About Me
+## 🤖 About Me
 
-```python
-class AGayathri:
-    def __init__(self):
-        self.name = "A. Gayathri"
-        self.location = "India 🇮🇳"
-        self.role = "Generative AI Developer"
-        
-        self.current_work = "AI-Based Fraud Detection & Pattern Analysis"
-        
-        self.learning = [
-            "Streamlit",
-            "NLP",
-            "Generative AI",
-            "Prompt Engineering"
-        ]
-        
-        self.skills = [
-            "Python",
-            "Machine Learning",
-            "Deep Learning",
-            "Data Analytics"
-        ]
-        
-        self.goal = "To become a Generative AI Engineer 🚀"
-        
-    def fun_fact(self):
-        return "I turn ideas into intelligent AI applications ⚡"
+- 📍 **Location:** India
+- 💼 **Role:** Generative AI Developer
+- 🔭 **Current Work:** AI-Based Fraud Detection & Pattern Analysis
+
+## 📚 Currently Learning
+- Streamlit
+- NLP
+- Generative AI
+- Prompt Engineering
+
+## 🛠️ Skills
+- Python
+- Machine Learning
+- Deep Learning
+- Data Analytics
+
+## 🎯 Goal
+To become a Generative AI Engineer 🚀
+
+## ⚡ Fun Fact
+I turn ideas into intelligent AI applications ⚡
